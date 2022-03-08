@@ -1,0 +1,75 @@
+body {
+    background-color: mistyrose;
+}
+
+h1{
+    color: lavenderblush;
+    background-color: hotpink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: deeppink;
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    color: hotpink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h4{
+    color: lavenderblush;
+    background-color: palevioletred;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.bold_text {
+    font-weight: bold;
+    padding-bottom: 4 px;
+}
+
+table, th, td {
+    width: 500px;
+    border: 1px solid palevioletred;
+    padding: 10 px;
+    margin: 20 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+headerForTable{
+    font-size: 60;
+}
+
+img {
+    border-radius: 8px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    padding: 5px;
+}
+
+figcaption {
+    width: 215px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+
